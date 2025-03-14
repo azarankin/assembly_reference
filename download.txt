@@ -1,4 +1,12 @@
 https://dragonzap.com/downloads
 > x86 Assembly Language Programming Masters Course
-Installing The Emulator
-Emu8086 Download
+Installing x86 Assembler Dependencies
+Nasm 2.14 Download
+    run as administrator
+
+Mingw Compiler Download
+    *if 64bit version is installed then set to this one
+set ENV path
+    C:\Program Files\NASM
+    C:\src\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin
+    a.exe
